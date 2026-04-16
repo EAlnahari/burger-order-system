@@ -146,7 +146,7 @@ CREATE TABLE `crud_new` (
 
 ## 👨‍💻 Author
 
-**EAlnahari** 
+**Enas Alnahari** 
 Computer Science Student  
 [LinkedIn](https://linkedin.com) • [GitHub](https://github.com/EAlnahari)
 

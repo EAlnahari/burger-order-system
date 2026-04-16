@@ -146,9 +146,9 @@ CREATE TABLE `crud_new` (
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
+**EAlnahari** 
 Computer Science Student  
-[LinkedIn](https://linkedin.com) • [GitHub](https://github.com)
+[LinkedIn](https://linkedin.com) • [GitHub](https://github.com/EAlnahari)
 
 ---
 

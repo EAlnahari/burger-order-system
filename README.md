@@ -4,13 +4,13 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 **Burger Order System** is a full-stack project built with **PHP** and **MySQL** that enables restaurant staff to manage customer orders efficiently through a clean admin panel — while customers enjoy a responsive and animated front-end experience.
 
 ---
 
-## ✨ Features
+##  Features
 
 - **CRUD Operations** — Full Create, Read, Update, and Delete functionality for customer orders
 - **Admin Dashboard** — Dedicated panel to manage all customer records in one place
@@ -20,20 +20,20 @@
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
-### 🏠 Home Page
+###  Home Page
 ![Home Page](order/assets/img/home-burger.png)
 
-### 🍔 Popular Burgers
+###  Popular Burgers
 ![Menu](order/assets/img/popular-burger-big.png)
 
-### 📋 Recipe Section
+###  Recipe Section
 ![Recipe](order/assets/img/recipe-burger.png)
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 burger-order-system/
@@ -60,7 +60,7 @@ burger-order-system/
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 | Layer      | Technology                        |
 |------------|-----------------------------------|
@@ -73,7 +73,7 @@ burger-order-system/
 
 ---
 
-## ⚙️ Database Schema
+##  Database Schema
 
 ```sql
 CREATE TABLE `crud_new` (
@@ -87,7 +87,7 @@ CREATE TABLE `crud_new` (
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - XAMPP (or any local PHP server)
@@ -125,7 +125,7 @@ CREATE TABLE `crud_new` (
 
 ---
 
-## 📄 Pages
+##  Pages
 
 | Page | Description |
 |------|-------------|
@@ -140,7 +140,7 @@ CREATE TABLE `crud_new` (
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **EAlnahari**  
 Computer Science Student
